@@ -1,4 +1,4 @@
-#Hangman: Tech Company Challenge
+**Hangman: Tech Company Challenge**
 
 This Hangman game is a fun twist on the classic word-guessing game, where you’ll be guessing the names of popular tech companies. Test your knowledge of famous tech brands while enjoying the excitement of Hangman!
 
